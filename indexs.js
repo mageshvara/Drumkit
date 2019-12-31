@@ -18,7 +18,7 @@ function switchcase(but){
          var audio=new Audio("tom-1.mp3");
          audio.play();
          break;
-      case "a"
+    case "a":
          var audio=new Audio("tom-2.mp3");
          audio.play();
          break;
